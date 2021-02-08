@@ -25,7 +25,7 @@ while(characters < 8 || characters > 128) {
   alert("Min characters is 8 and max is 128");
   var characters = (prompt("How many characters?"));
 }
-}
+
 
 //this part here is where i'm stuck and need to link the vars to do the thing
  if(confirm("Do you want lowercase letters?")) {
@@ -43,7 +43,7 @@ while(characters < 8 || characters > 128) {
 if(confirm("Do you want special characters (ex. !@#$%)?")) {
 
 }
-
+}
 
 
 
