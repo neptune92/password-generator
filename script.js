@@ -26,8 +26,6 @@ while(characters < 8 || characters > 128) {
   var characters = (prompt("How many characters?"));
 }
 
-
-//this part here is where i'm stuck and need to link the vars to do the thing
  if(confirm("Do you want lowercase letters?")) {
 
  }
@@ -44,7 +42,3 @@ if(confirm("Do you want special characters (ex. !@#$%)?")) {
 
 }
 }
-
-
-
-//set random selector for vars, required to answer
